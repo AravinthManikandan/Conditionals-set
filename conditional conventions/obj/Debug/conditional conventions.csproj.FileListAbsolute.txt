@@ -1,0 +1,6 @@
+c:\users\hp\documents\visual studio 2012\Projects\conditional conventions\conditional conventions\bin\Debug\conditional conventions.exe.config
+c:\users\hp\documents\visual studio 2012\Projects\conditional conventions\conditional conventions\bin\Debug\conditional conventions.exe
+c:\users\hp\documents\visual studio 2012\Projects\conditional conventions\conditional conventions\bin\Debug\conditional conventions.pdb
+c:\users\hp\documents\visual studio 2012\Projects\conditional conventions\conditional conventions\obj\Debug\conditional conventions.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2012\Projects\conditional conventions\conditional conventions\obj\Debug\conditional conventions.exe
+c:\users\hp\documents\visual studio 2012\Projects\conditional conventions\conditional conventions\obj\Debug\conditional conventions.pdb
